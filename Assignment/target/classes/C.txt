@@ -1,0 +1,100 @@
+Time, Uncertainty and Dynamic Theory:
+The Contribution of Oskar Morgenstern in his Viennese Period1
+I.
+Introduction
+II.
+An unfinished book by Morgenstern on time and equilibrium
+II-1.
+Morgensterns ideas on business-cycle theory in the late 1920s and 1930s
+II-2.
+Morgenstern and Knight on their concept of subjectivity
+III. Morgensterns collaboration with Knight
+III-1.
+Morgensterns and Knights criticism of Bhm-Bawerks capital theory
+III-2.
+Highlight around 1935
+III-3.
+Ceasing collaboration
+IV.
+Summary
+References
+Appendix: Chronology of the correspondence between Knight and Morgenstern
+1 I.
+Introduction
+This paper discusses Morgensterns ideas on probability, time and uncertainty, and their relevance to his later work.
+After publishing his first book on economic forecasting in 1928, he intended to write a book which was to be titled Time and Economic Equilibrium.
+However, due to his collaboration with John von Neumann in the late thirties and early forties, he never completed that project.
+It may be argued that analysing an authors unfinished work is highly speculative and the results of such an historical investigation are dubious, as they do not elucidate the intellectual development of that author.
+However, I believe that Morgensterns ideas on probability and the business-cycle theory, which he developed in Vienna between 1928 and 1935, are relevant to his later work.
+They were not only the starting point for his close collaboration with von Neumann2, but also provided the basis for his later research on stock markets.
+These ideas proved important for his collaboration with Granger and for the development of the random walk hypothesis.
+Malkiel emphasizes (Malkiel 1973/2004) the importance of Morgensterns contribution to the development of that hypothesis and I feel that Morgensterns early ideas on probability and the business cycle theory are relevant3.
+This paper discusses the ideas that Morgenstern developed in Vienna, shortly after his emigration to the U.S.A.
+However, with respect to his work in the U. S. A., I refer only to his ideas on subjectiveness [Remark 1] and dynamic theory and not to his collaboration with Granger.
+According to Morgenstern, subjectiveness means that individual decisions are mutually influenced and are not independently taken.
+In his view, this is central to the analysis of dynamic processes.
+Presumably Morgensterns idea of subjectiveness was inspired by contemporary discussions.
+For instance, in his analysis of the differences in forecasting natural and social events, he refers to Webers concept of Verstehen (understanding) and emphasizes the idea of rationality and the mutual dependence of individual decisions.
+Moreover, it seems that Vienna provided a stimulating intellectual atmosphere for discussing this issue.
+Morgenstern was in contact with Karl Popper, who also discussed that issue and introduced him to some representatives of the Vienna Circle.
+He was, of course, aware of Mengers seminal article The Role of Uncertainty in Economics, which appeared in 1934 in Zeitschrift fr Nationalkonomie, when he was the managing editor of that journal.4 Morgenstern and Menger certainly discussed these issues5.
+However, with respect to the development of Morgensterns ideas on uncertainty, probability, equilibrium and dynamic processes, I will not restrict the discussion to his relations in Vienna.
+Rather, I would also like to draw attention to the existence of a non-Viennese midwife who developed his ideas further, i.e. Frank Knight.
+The personal correspondence between Morgenstern and Knight shows that they first established contact in 19346, when Morgenstern asked Knight to submit a paper for the Zeitschrift fr Nationalkonomie.
+Knight submitted three articles: Statik und Dynamik: Zur Frage der mechanischen Analogie in den Wirtschaftswissenschaften, and Bemerkungen ber Nutzen und Kosten, which was split into two parts: Teil I: Kritisches und Dogmengeschichtliches, and Teil II: Versuch einer Neugestaltung der Kostentheorie7.
+However, the correspondence between Morgenstern and Knight also shows that the intellectual interaction wasnt confined to the editor-author relationship.
+In fact, they continued to discuss issues that were of fundamental interest to both men, primarily those concerning problems of time in economic theory, of equilibrium, the satisfactory structure of dynamic theories and economic forecasts.
+These were the main problems occupying Morgenstern during his time in Vienna (between 1928 and 1935 approximately), and his correspondence indicates that Knights ideas on risk, profit, interest and uncertainty influenced his thinking.
+However, a caveat may apply here: The purpose of this paper is to investigate the intellectual development of Morgenstern in a specific period and the possible influence of Knights ideas on that development.
+Therefore, rather than using all available historical sources that would be relevant for explaining his entire intellectual development8, only their correspondence is taken into account here.
+We note that this exchange of ideas is more meaningful compared to simple personal correspondence as it represents the exchange of ideas between two major schools of liberalism in the thirties and fortiesi.e. Vienna and Chicago.
+Even though Morgensterns thinking was not typically Austrian or Viennese School [Remark 2], he could certainly be aligned with the mainstream of this school. And Knight is sometimes considered as one of the founder of the Chicago School9.
+1 II.
+An unfinished book by Oskar Morgenstern on time and equilibrium
+1 II-1.
+Morgensterns ideas on business cycle theory in the late 1920s and 1930s
+Although the literature frequently points out Morgensterns emphasis on the role of time in economic theory10, it seldom refers to his intention of combining business-cycle theory with the concept of a general equilibrium, following the later ideas of Bhm-Bawerk.
+Instead, it primarily provides an institutional explanation of Morgensterns interest in business-cycle theory, referring to his directorship of the Institut fr Konjunkturforschung in Vienna11.
+However, as his correspondence and articles show, Morgensterns sincere interest in dynamic problems cannot be explained by institutional factors only.
+Although the institutional factors are presumably of historical relevance here, the correspondence and articles suggest an internal explanation as well.
+Accordingly, Morgensterns deep interest in dynamic problems dates back much earlier.
+In 1925, he went to America, where he had discussions with Mitchell, Young and Burns.
+One outcome of these discussions was his paper on Mitchell and Pigou, which appeared in 1928, and reflects his keen interest in dynamic problems.
+It seems that Morgenstern thought about time and dynamic problems as early as 1925 and continued through the 1930s12. He intended to write a book on those problems.
+In a letter to Knight he writes,
+For the moment I am working on a book on time and economic equilibrium and will have to deal with the period of production and all such things in detail in it, because I have to deal with your opinion.
+I am myself, very critical of the orthodox opinion of the Viennese School.
+13
+This letter, however, is not only important with respect to Morgensterns intentions of writing a book on time and equilibrium.
+It also indicates his interest in Knights ideas and his critical attitude towards some of the economic theories of the Viennese or Austrian School, in particular to Bhm-Bawerks idea of the period of production.
+However, Morgenstern not only wrote the article on Mitchell and Pigou, as part of his investigations on the problems of time and equilibrium in economics, but also wrote several reviews which surveyed and related the writings of German- and English-speaking authors on those problems14.
+In his article on Mitchell and Pigou15, he criticized Mitchell for not having integrated cyclical movements into a framework of general equilibrium16.
+However, referring to Pigous position, he maintains that Pigous emphasis on the role of psychological factors, as well as on the expectations of profit from industrial spending among businessmen17, constitutes a major element in developing satisfactory explanations of business cycles and economic fluctuations.
+He notes similar points in Schumpeters work.
+Although Morgenstern appreciated Pigous emphasis on psychological factors and expectations for the explanation of economic fluctuations18, he objected to a certain vagueness in that analysis.
+According to him, it emanates from the Marshall Tradition (p. 71), which constitutes the framework of Pigous reasoning.
+Morgenstern viewed the Marshall tradition as a compromise between common sense and statistics and lacking scientific precision.
+As the title of the article on Mitchell and Pigou, Qualitative und quantitative Konjunkturforschung indicates, Morgenstern distinguished between quantitative and qualitative approaches to business-cycle theory and much preferred the latter.
+His preference for qualitative research may have resulted from his critical attitude towards the empirical method of the younger German historical schools, as well as from Mitchells institutionalist tradition.
+This might be seen as evidence that Morgenstern was, if not typically representative, at least in line with the tradition of the Austrian School on this point19.
+Morgenstern subsequently published his book, Wirtschaftsprognose: eine Untersuchung ihrer Voraussetzungen und Mglichkeiten (Economic Forecasting: an investigation of its conditions and possibilities), in 1928.
+He wrote his book Habilitationsschrift, while visiting several American and European universities, and with the financial support of the Rockefeller Foundation.
+In that, he sought to solve those problems which, according to his paper Qualitative und quantitative Konjunkturforschung, awaited resolution.
+On the whole, Morgensterns treatise seems to have been poorly received by the public20.
+Morgenstern seems to have taken only two reviews seriously21, perhaps regarding the rest as being unaware of the problems and solutions that he tried to develop.
+These problems are related to the importance of time, such as the past and future, with respect to economic decisions.
+In particular, he explained that individuals expectations of the future influence present economic decisions and activities.
+According to him, the past does not determine the present and the present does not determine the future, but rather, the future determines the present.
+In that respect, Morgenstern refers to Knight in the footnote for this paragraph.
+In deciding whether some purchase and exchange shall really occur or not today, or no precedence is given to other exchanges because of the existence of affluent measures for them, the prior judgment22 usually called risk, matters, though these two  prior consideration and risk - are not identical.
+The calculation of the future is only one of the ways in which the element of time plays a role and the past is no less important in a similarly direct sense23.
+Morgenstern emphasizes the importance of the future for present economic activities and that of the past for formulating expectations.
+This is not, however, in the sense that frequencies are the basis of mathematically calculated probabilities.
+Individuals do not simply extrapolate past frequencies into the future, but rather use their own knowledge and information along with that of others, in order to formulate subjective expectations about the future.
+To emphasize this point, Morgenstern contrasts the possibilities of forecasting in astronomical and meteorological systems with those of social systems like economics, by referring to the different structural characteristics of the natural and the social universe.
+In particular, he maintains that in the social universe, as opposed to the natural universe, knowledge is a decisive factor with respect to the processes and events that constitute it.
+Morgenstern, however, is quite specific about the role of knowledge in constituting the social universe.
+He explains that factors besides knowledge play an important role in the formation of an individuals expectations.
+According to him, individuals take notice of the plans of other individuals with respect to the formation of their own plans, and also formulate specific conjectures about how other people may change their plans24.
+For them, this knowledge is most important in formulating their own plans.
+In order to do so, they try to evaluate situations by assigning probabilities to possible changes in other individuals plans25.

@@ -1,0 +1,100 @@
+A case report of foreign bodies in the knee joint discovered a year after initial trauma {1.1}
+Although fragments of glass are frequently embedded in human tissues as foreign bodies, most of these are found during primary treatment.
+A 35-year-old man presented to our hospital with complaints of locking in the right knee 13 months after a glass-related injury.
+{1.6} Clinical evaluation revealed swelling and significant effusion without signs of infectious arthritis such as local warmth and redness.
+Joint puncture produced 60 ml synovial fluid mixed with blood.
+The presence of three foreign bodies in the knee joint was detected by both plain radiography and computed tomography.
+Arthroscopy identified these fragments as glass pieces trapped in the medial joint space, and demonstrated a meniscal tear and a widespread defect in the articular cartilage.
+After removing all three fragments, subchondral drilling to a depth of 2 mm was performed in the area with the cartilage defect.
+The symptoms subsequently improved. A second arthroscopy performed 3 months following the initial operation revealed that the area with cartilage defect was covered with fibrous cartilage.
+Considering the articular cartilage defect and meniscal tear occurring at a young age, there is a possibility of progression to osteoarthritis in the near future.
+{1.4} The presence of foreign bodies in human tissue is a serious clinical problem.
+Most fragments embedded in an injured patients limb are easily visible on standard roentgenograms.
+A careful radiographic search is necessary in the management of patients who may have been exposed to foreign bodies.
+Synthesis of [carbonyl-11C]Acetophenone via the Stille Cross-Coupling Reaction of [1-11C]Acetyl Chloride with Tributylphenylstannane Mediated by Pd2(dba)3/P(MeNCH2CH2)3NHCl
+Takuya Arai* and Koichi Kato
+Department of Molecular Probes, Molecular Imaging Center, National Institute of Radiological Sciences, 4-9-1 Anagawa, Inage-ku, Chiba 263-8555, Japan
+*Correspondence to Takuya Arai, Radiochemistry Section, Department of Molecular Probes, Molecular Imaging Center, National Institute of Radiological Sciences, 4-9-1 Anagawa, Inage-Ku, Chiba 263-8555, Japan
+Tel.
+: 81-43-206-4041; Fax: 81-43-206-3261; E-mail: arai_t@nirs.go.jp
+Keywords
+[1-11C]Acetyl chloride, [carbonyl-11C]acetophenone, Stille cross-coupling reaction, PET
+Graphical abstract
+Synthesis of [carbonyl-11C]Acetophenone via the Stille Cross-Coupling Reaction of [1-11C]Acetyl Chloride with Tributylphenylstannane Mediated by Pd2(dba)3/P(MeNCH2CH2)3NHCl
+Takuya Arai and Koichi Kato
+The Stille cross-coupling reaction of [1-11C]acetyl chloride with tributylphenylstannane leading to [carbonyl-11C]acetophenone was studied.
+[carbonyl-11C]acetophenone was synthesized in high radiochemical conversion from [1-11C]acetyl chloride using the Pd2(dba)3/P(MeNCH2CH2)3NHCl system.
+Abstract
+The Stille cross-coupling reaction of [1-11C]acetyl chloride with tributylphenylstannane leading to [carbonyl-11C]acetophenone was studied with the goal of developing a new 11C-labeling method for positron emission tomography tracer synthesis {1.1}.
+[carbonyl-11C]Acetophenone was synthesized using the Pd2(dba)3/P(MeNCH2CH2)3NHCl system with a 5761% radiochemical conversion from [1-11C]acetyl chloride (decay-corrected, n = 3).
+Positron emission tomography (PET) is a powerful technique for in vivo molecular imaging1 and drug research and development2 that uses positron-emitting radionuclides coupled to specific compounds.
+A number of positron-emitting radionuclides, such as 11C, 13N, 15O, 18F, and 76Br, are applied in PET studies, but 11C is particularly valuable because of the ubiquitous presence of the carbon atom in biologically active organic molecules.
+However, PET chemistry with 11C differs significantly from conventional organic chemistry, and several specific features have posed severe synthetic limitations: the short half-life of 11C (t1/2 = 20.3 min), the use of submicromolar amounts of the starting materials, and a need for an automated remote-controlled system for radiation protection.3 Because the synthesis time is a crucial parameter, the synthesis of 11C-labeled tracers requires extremely rapid and efficient reactions.
+In addition, 11C is available from a cyclotron only in the form of [11C]O2 or [11C]H4 from which 11C-labeling reagents must be synthesized.
+So far, a typical method for labeling a target compound with 11C is through methylation of amines, alcohols, and thiol groups using [11C]H3I.4 By using 11C methylation, a large number of 11C-labeled tracers have been successfully developed.
+However, with increasing utilization of PET in biomedical research, there is a growing need for new PET tracers, and consequently, the development of new 11C-labeling strategies.
+Over the past decade, palladium-mediated cross-coupling reactions, especially the Stille cross-coupling reaction,5 have proven to be a useful route for the incorporation of 11C into target compounds.6 Stille cross-coupling, which is a versatile carboncarbon bond forming reaction, is an ideal and practical method for PET tracer synthesis, in part, due to the ready availability of organostannanes, their air- and moisture-stability compared to most organometallic reagents, and their extremely low polarity, which can facilitate chromatographic separation of the desired product from an excess amount of unreacted stannane.
+Ketones constitute an important class of biologically and pharmacologically active molecules,7 and are thus an attractive target for 11C-labeling.
+In view of the importance of ketones, a number of approaches for the efficient synthesis of this functional group have been introduced in recent years.
+Among them, transition-metal-catalyzed cross-coupling reactions of acyl halides with organometallic reagents provide a quick and direct procedure for ketone synthesis,7a although few examples of cross-couplings with acyl halides can be found in the literature.8 As part of our studies aimed at developing new 11C-labeling methods, we were interested in the synthesis of [11C]ketones via the Stille cross-coupling reaction with [11C]acyl halides.
+Herein, we report the palladium-mediated cross-coupling of [1-11C]acetyl chloride ([11C]1) with tributylphenylstannane (2) leading to [carbonyl-11C]acetophenone ([11C]3), as a simple model reaction.
+Our initial studies were conducted with nonradioactive reagents.
+Unlike standard organic syntheses, 11C-labeled tracer synthesis requires specific conditions that depend on the use of short-lived 11C and an extremely small amount of 11C-labeling reagents.
+With this in mind, the coupling reaction between acetyl chloride (1) and 2 was conducted in dioxane at room temperature for 5 min in the presence of Pd2(dba)3 and a supporting ligand, and a 20-fold excess of 2 was used relative to 1 and Pd2(dba)3 (1:1) [Eq.
+(1)].9
+(Please, insert Equation 1 here).
+We performed experiments to examine the effect of supporting ligands on the coupling of 1 with 2 leading to acetophenone (3) (Table 1).
+When the reaction between 1 and 2 was conducted only with Pd2(dba)3, the conversion to 3 was only 11% (entry 1).
+Disappointingly, almost no coupling of 1 with 2 occurred in the presence of any ligand surveyed, including trialkylphosphanes (entries 2 and 3), triarylphosphanes (entries 4 and 5), and bicyclic triaminophosphanes (entry 6),10.
+We next investigated the influence of the ratio of Pd to ligand on this reaction in the Pd2(dba)3/PCy3 system (entries 79).11 It was discovered that the coupling of 1 with 2 under these specific conditions was very sensitive to the Pd:ligand ratio.
+Interestingly, a significant improvement in conversion to 3 was attained when a 1:0.25 ratio of Pd to ligand was used (31%).
+From these results, we decided to resurvey other ligands using a Pd:ligand ratio of 1:0.25 (entries 1013).
+Among the best phosphane ligands surveyed was P(MeNCH2CH2)3N, whereas P(t-Bu)3, PPh3, and P(o-tolyl)3 were not effective for this reaction; only P(MeNCH2CH2)3N produced a major improvement in conversion (61%), which was higher than that obtained with PCy3.
+(Please, insert Table 1 here).
+The beneficial effect of LiCl on Stille cross-coupling has been reported by several research groups,12 although it is not currently clear why LiCl accelerates the cross-coupling process.
+We thus explored the utility of LiCl for the coupling of 1 with 2 using the Pd2(dba)3/P(MeNCH2CH2)3N system (Table 2).
+The addition of 1 equiv of LiCl relative to Pd2(dba)3 to the reaction mixture had a positive effect on the coupling of 1 with 2, providing 3 in a 67% conversion (entry 1 vs. entry 2).
+Increasing the quantity of LiCl to 2 and 5 equiv produced a further improvement in the conversion (72 and 76%, respectively; entries 3 and 4).
+Surprisingly, when conducted with Pd2(dba)3 and 15 equiv of LiCl in the absence of P(MeNCH2CH2)3N, the same reaction proceeded with a higher conversion of 8082% (entries 5 and 6).
+Furthermore, a similar enhancement of the cross-coupling process was observed when 1 equiv of Bu4NCl was used in place of LiCl (80%; entry 7).
+It was found that chloride sources, such as LiCl and Bu4NCl, exerted a beneficial effect that promoted this reaction.
+(Please, insert Table 2 here).
+Given that P(MeNCH2CH2)3N as a supporting ligand and a chloride source as an additive were effective in the coupling of 1 with 2, we explored the possibility that using the HCl salt of P(MeNCH2CH2)3N, which is commercially available, might lead to a more efficient cross-coupling reaction (Table 3).
+As expected, Pd2(dba)3/P(MeNCH2CH2)3NHCl (1:0.25) provided 3 in an excellent conversion of 84%, which was comparable to that obtained with the Pd2(dba)3/LiCl system (entry 1).
+The ratio of Pd to ligand had little influence on the coupling of 1 with 2, and the reaction occurred similarly with excellent conversion even when a 1:0.0625 ratio of Pd to ligand was used (entries 2 and 3).
+Although the precise role of P(MeNCH2CH2)3NHCl in the cross-coupling remains unclear, the results obtained in this study are very interesting because there are no reported examples of the Stille cross-coupling with the Pd2(dba)3/P(MeNCH2CH2)3NHCl system.
+(Please, insert Table 3 here).
+From a practical standpoint, it should be noted that the use of air- and moisture-sensitive reagents can be deterrent to the reproducible synthesis of PET tracers on a submicromolar scale.
+Unlike most phosphane ligands, P(MeNCH2CH2)3NHCl is very stable in air and moisture, and does not require special handling13.
+Considering the overall results, Pd2(dba)3/P(MeNCH2CH2)3NHCl was the most effective of the systems investigated in this study.
+Finally, we demonstrated that the Pd2(dba)3/P(MeNCH2CH2)3NHCl (1:0.5) system could be applied for the coupling of [11C]114,15 with 2 [Eq.
+(2)].16 The coupled product [11C]3 was reproducibly synthesized with a 5761% radiochemical conversion from [11C]1 (decay-corrected, determined by HPLC, n = 3), which was sufficient for application to an actual PET tracer synthesis.
+To the best our knowledge, this is the first example of the palladium-mediated cross-coupling of a [11C]acyl halide with organostannane.
+(Please, insert Equation 2 here).
+In summary, we demonstrated that the Pd2(dba)3/P(MeNCH2CH2)3NHCl system was highly effective for coupling [11C]1 with 2.
+With this system, we could synthesize the coupled product [11C]3 with a high radiochemical conversion as a model of [11C]ketone synthesis.
+Additional studies are underway to expand the scope and utility of this procedure to a wide variety of [11C]acyl chlorides, which will be reported in due course.
+Acknowledgements
+The authors thank the cyclotron crew of NIRS [Remark 1] and Mr.
+I. Nakamura, Tokyo Nuclear Service, for their technical support in the operation of the cyclotron and production of radioisotopes.
+This study was partially supported by a consignment grant for the Molecular Imaging Program on Research Base for PET Diagnosis from the Japanese Ministry of Education, Culture, Sports, Science, and Technology (MEXT).
+References and notes
+1.
+(a) Blasberg, R. G.; Tjuvajev, J. G. J. Clin.
+Invest.
+2003, 111, 16201629; (b) Herschman, H. R. Science 2003, 302, 605608.
+2.
+(a) Phelps, M. E. Proc.
+Natl.
+Acad.
+Sci.
+USA 2000, 97, 92269233; (b) Lappin, G.; Garner, R. C. Nat.
+Rev.
+Drug Discov.
+2003, 2, 233240; (c) Bergstrm, M.; Grahnn, A.; Lngstrm, B. Eur.
+J. Clin.
+Pharmacol.
+2003, 59, 357366.
+3.
+Lngstrm, B.; Kihlberg, T.; Bergstrm, M.; Antoni, G.; Bjrkman, M.; Forngren, B. H.; Forngren, T.; Hartvig, P.; Markides, K.; Yngve, U.; gren, M. Acta Chem.
+Scand.

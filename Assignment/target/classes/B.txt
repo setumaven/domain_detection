@@ -1,0 +1,100 @@
+Captions
+Fig.
+1.
+Locations {1.6} of the DSDP and ODP sites referred to in this study.
+Blue and red circles indicate the drilling points of the DSDP and ODP, respectively.
+Fig.
+2.
+Average carbonate content (%) of core sediments obtained by the DSDP and ODP during the last 140 m.y.
+Fig.
+3.
+Average sedimentation rate (m/m.y.)
+of core samples obtained by the DSDP and ODP from the Cretaceous Period to the present.
+Fig.
+4.
+Average mass accumulation rate (g/m.y.)
+of the core sediments obtained by the DSDP and ODP.
+This rate is a product of the sedimentation rate and core density provided in Figs.
+2 and 3.
+Fig.
+5.
+Changes in the oceanic carbonate accumulation rate (OCAR).
+Stage A (Aptian to Pleistocene) is characterized by a decreasing long-term trend in the rate, although Stage B (Berriasian to Barremian) is characterized by an increasing trend in the rate.
+Fig.
+6.
+Changes in the oceanic carbonate accumulation rate (OCAR) on the deep-sea floor (solid circle) and on the continental platform (Opdyke and Wilkinson, 1988; dot).
+The global carbonate accumulation rate (GCAR; open circle) is a sum of these two rates.
+Stages I to V are defined on the basis of the long-term trend and variations.
+Fig.
+7.
+Strontium isotopic ratio (87Sr/86Sr) of marine carbonates from the Cretaceous Period to the present, obtained by averaging previously published data (Bralower et al., 1997; Burke et al., 1982; Depaolo and Ingram, 1985; Hess et al., 1986; Jenkyns et al., 1995; Jones et al., 1994; Kagami et al., 1999; McArthur et al., 1993).
+8.
+Strontium fluxes obtained from strontium box model with boundary conditions of strontium isotopic ratio and carbonate flux .
+Fc (solid circle) indicates the flux extracted from the ocean box because of carbonate sedimentation.
+Fh (open square) indicates the flux derived from hydrothermal alteration of mid-oceanic ridge (MOR) basalts.
+Fw (dot) indicates the flux from lands to the ocean via rivers because of the chemical erosion of silicate rocks.
+Supplementary data
+TABLE 1
+List of leg, site, date, locality (latitude and longitude), water depth (m), and penetration (mfs) for each core obtained by the DSDP and ODP referred to in this study.
+Carbon and Strontium Cycles Deduced from the Global Carbonate Accumulation Rate since the Cretaceous Period
+Kyoko Kitamuraa*, Toru Nakamorib
+a Geographical Survey Institute, Kitasato-1, Tsukuba, Ibaraki 305-0811, Japan
+b Department of Geoenvironmental Science, Graduate School of Science, Tohoku University, Aoba-ku, Sendai 980-8578, Japan
+Abstract
+We collected data on the chemical components and deposition rates of cores obtained by the Deep Sea Drilling Project and the Ocean Drilling Program since the Cretaceous Period to obtain the latest rates of global carbonate deposition.
+The average rate of carbonate accumulation was obtained at an interval of 0.5 m.y.
+[Remark 1] for the past 140 Ma, [Remark 1] which resulted in 280 horizons.
+{1.6} The global carbonate accumulation rate (GCAR) is a sum of two rates: the oceanic carbonate accumulation rate (OCAR) and the rate deposited on the continents.
+We calculated original OCARs, which are a product of carbonate content, sedimentation rate, and core density.
+Paleoceanography 3, 685703) were used for the calculations.
+The effect of erosion on continental and deep-sea sediments was corrected using an exponential expression.
+Five stages (Stage IV) were defined based on the long-term trend and variations in the GCAR curve.
+This curve is characterized by a rising trend since the Cretaceous Period.
+We observed two local maxima of the rate during the Early Cretaceous and Neogene Periods.
+{1.6} We reconstructed hydrothermal and riverine fluxes for the past 140 Ma by solving simultaneous equations for a strontium cycle model.
+The hydrothermal flux has decreased gradually since the Cretaceous Period, which indicates a long-term decreasing trend in volcanism.
+The riverine flux has been nearly constant during this period, although it has shown numerous small variations.
+It reached its maximum during the Tertiary Period because of a collision between the Indian and Eurasian Plates.
+Keywords: Carbonate; accumulation rate; carbon cycle; strontium cycle; volcanism; chemical weathering
+*Corresponding author. Geographical Survey Institute, Kitasato-1, Tsukuba, Ibaraki 305-0811, Japan.
+Tel.
+: +81 29 864 6456; Fax: +81 29 864 6288; E-mail address: kitamura@gsi.go.jp (K Kitamura)
+1.
+Introduction
+The Earth core was very active during the Cretaceous Period (ca.
+14465 Ma).
+Superplumes arose from the deeper part of the mantle, resulting in a rapid increase in oceanic-crust production up to 1.75-fold that of the present (Larson, 1991).
+Recent studies of past volcanisms indicate that large igneous provinces (LIPs) occurred repeatedly through the Cretaceous Period.
+LIPs during the Hauterivian and Barremian Stages were the most intense, and huge oceanic plateaus (e.g., the Mid-Pacific Mountains and Ontong Java Plateau) formed by extensive basalt flooding (Coffin and Eldholm, 1994).
+Batholiths made of granitic rocks were also formed in the crusts of the island arcs in the Pacific and the Cordillera Mountains (Tsuchiya and Kanisawa, 1994).
+The climate system oscillated between two modes: a warm greenhouse and a cool icehouse at ca. 100 m.y.
+intervals through the Phanerozoic Eon (Stanley and Hardie, 1998).
+Both polar regions on the Earth were free of ice caps during the Cretaceous Period because of a warm climate originating from a high atmospheric CO2 concentration, whereas huge caps developed there through the Tertiary Period.
+Climatic changes since the Cretaceous Period provide important clues to elucidate driving forces of long-term climatic changes.
+The Deep Sea Drilling Project (DSDP) and the Ocean Drilling Program (ODP) have provided us abundant geological and paleontological data on climatic change during these periods.
+Accelerated volcanisms during the Cretaceous Period raised atmospheric CO2 concentrations to about 8 times that of the present level (Berner and Rye, 1992).
+Metabolic activity of Cretaceous marine organisms was very high, and most of the petroleum resources were produced from organic matter via diagenesis in this period (Klemme and Ulmishek, 1991).
+Carbonate accumulation rates (CARs) on the shallow shelf were also high because of increased production of carbonate skeletons of reef-building organisms, such as hermatypic corals and rudists (Wood, 1999).
+The carbon cycle on Earth over the past 4.5 billion years has also been studied by geochemists to estimate past concentrations of CO2 and O2 in atmosphere and of major elements in seawater using geological data such as carbonate sedimentation rate (SR), organic carbon accumulation rate (OCAR), and stable-isotope ratios of carbon and oxygen.
+Berner et al.
+(1983) proposed a carbon-cycle model on the basis of chemical weathering originally proposed by Urey (1952).
+An idealized chemical reaction of weathering is given as follows:
+CO2 + CaSiO3  CaCO3 + SiO2
+This reaction indicates that, in the ocean box, the moles of carbonate and silica minerals precipitated will be equivalent to those of CO2 consumed by weathering of the silicate rocks.
+Berners model contains 5 reservoirs (atmosphere, oceans, calcite, dolomite, and Ca-Mg silicate boxes) and allows the reconstruction of ancient atmospheric CO2 levels over the past 100 m.y.
+Lasaga et al.
+(1985) added 4 more boxes (atmospheric O2, organic carbon, pyrite, and gypsum) to the previous model to reconstruct the pH of seawater, organic carbon, and carbonate fluxes since the Cretaceous Period.
+The model predicted that the CAR was very high in the Cretaceous Period because of the warm climate, whereas it was relatively low in the Neogene Period.
+These values were accepted because the results agreed with geologists perception {1.2} in the 1980s (Hay, 1985; Opdyke and Wilkinson 1988).
+Berner (1991) reduced the number of boxes from 9 to 3 (carbonate, organic carbon, and ocean-atmosphere boxes) to evaluate the role of the carbon cycle during the Phanerozoic Eon.
+He concluded that atmospheric CO2 concentration was higher in the Early Paleozoic and Mesozoic Eras, and lower in the Late Paleozoic and Cenozoic Eras.
+These results agreed well with previous estimates of past CO2 concentrations inferred from biogeochemical models.
+Therefore, long-term climatic changes were considered to be controlled mainly by the carbon cycle.
+Recent geochemical studies on strontium cycle and 87Sr/86Sr isotope ratios, however, strongly suggest another mechanism relating to chemical weathering (Burke et al., 1982; Franois et al., 1993; Goddris and Franois, 1995; Palmer and Edmond, 1989; Raymo 1992; Raymo et al, 1988; Richter et al., 1992).
+Burke et al.
+(1982) reconstructed changes in the 87Sr/86Sr isotope ratio of marine carbonates throughout the Phanerozoic Eon.
+They discussed the roles of continental silicate-rock weathering and sea-floor hydrothermal alterations.
+{1.1} Low percentage of radiogenic 87Sr from the mantle lowers the 87Sr/86Sr ratio in the oceanic crust (Holland, 1984), whereas high percentage of 87Sr from continents raises it (Palmer and Edmond, 1989).
+Carbonate precipitation does not alter the 87Sr/86Sr ratio in oceans.
+{1.1} Therefore, the isotope ratio in oceans is mainly controlled by the relative amount of strontium flux from the mantle and the continents.
+Strontium-isotope ratios of marine carbonates were obtained in a greater number from the Cretaceous Period than from other geological periods, and a long-term trend in the 87Sr/86Sr ratio was reconstructed.

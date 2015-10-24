@@ -1,0 +1,100 @@
+Resection of periventricular white matter and striatum
+as foci of epileptogenic activity {1.1} Takanobu Kaido, MD1, Taisuke Otsuki, MD1, Akio Takahashi, MD1, Yuu Kaneko, MD1,
+Ryoko Honda, MD2, Yoshiaki Saito, MD2, Eiji Nakagawa, MD2, Kenji Sugai, MD2,
+Masayuki Sasaki, MD2, Masayuki Ito, MD 3, Yuko Saito, MD4,
+Hitoshi Takahashi, MD5, Akiyoshi Kakita, MD5
+1Department of Neurosurgery, Epilepsy Center, National Center of Neurology and Psychiatry (NCNP), Kodaira, Japan
+2Department of Child Neurology, Epilepsy Center, NCNP, Kodaira, Japan
+3Department of Mental Retardation and Birth Defect Research, Epilepsy Center, NCNP, Kodaira, Japan
+4Department of Pathology, Epilepsy Center, NCNP, Kodaira, Japan
+5Department of Pathology, Brain Research Institute, University of Niigata, Niigata, Japan
+Corresponding Author: Takanobu Kaido, MD
+Department of Neurosurgery, Epilepsy Center, National Center of Neurology and Psychiatry,
+Ogawahigashicho 4-1-1, Kodaira, Tokyo, 187-8551, Japan
+Phone: +81-42-341-2711, Fax: +81-42-346-1705
+Email: kaido@ncnp.go.jp
+Running Title: Deep structures and epilepsy
+Key words: epilepsy, deep white matter, striatum, dysmorphic neuron
+ABSTRACT
+Surgical resection is effective for treating medically refractory epilepsy.
+The cortex is believed to be the only epileptogenic focus in focal epilepsy.
+However, some patients are not seizure-free even after epileptogenic cortical lesion resection.
+We recently reported our early experiences with frontal lobe epilepsy cured without any neurological deficit after resection {2.1} of periventricular white matter and striatum that had revealed pathological abnormalities.
+We hypothesized that cases similar to those described above exist.
+To confirm our hypothesis, we studied 9 children with medically refractory focal epilepsy who underwent resection surgery of the epileptogenic focus, including deep brain structures.
+Eight patients suffered daily seizures and 1 had monthly seizures.
+Furthermore, 8 had frontal lobe epilepsy and 1 had parietal lobe epilepsy.
+Six patients underwent multiresection surgeries because of seizure recurrence.
+All patients, except 1 with transient postoperative seizures, were seizure-free postoperatively.
+In the white matter, dysmorphic neurons and/or balloon cells were widely distributed in 6 cases and an increased neuron number was found in 3.
+Histological verification of the resected anterior striatum was available in 3 cases in which dysmorphic neurons were scattered.
+Pathological abnormalities were observed in surgical specimens of the anterior striatum and periventricular white matter.
+Resected cortices of all patients exhibited noticeable abnormalities and all were diagnosed as having focal cortical dysplasia.
+These findings suggest that deep brain structures participate in epileptogenesis.
+Epilepsy is one of the common neurological disorders that involves seizures, and affects a numerous people of all ages worldwide.
+The prevalence of epilepsy in the United States, Europe, and Asia is 5 to 9 cases per 1000 individuals 1.
+Malformations of cortical development, such as focal cortical dysplasia (FCD), are important causes of refractory epilepsy 2.
+Surgical resection is powerful for treating medically refractory epilepsy.
+Identifying epileptogenic lesions is necessary for deciding radical treatment for refractory focal epilepsy.
+Multimodalities, such as electroencephalography (EEG), video-EEG monitoring, magnetic resonance imaging (MRI), single photon emission computed tomography (SPECT), positron emission tomography (PET), and magnetoencephalography (MEG), can be used to evaluate the pathogenesis of refractory epilepsy.
+Chronic and/or intraoperative electrocorticography (ECoG) is available to explore epileptic discharges in detail and decide a resection area.
+However, some patients despite undergoing previously mentioned preoperative examinations do not become seizure-free after resection of an assumed epileptogenic cortical lesion, and reoperation may be necessary.
+In many reoperation cases of focal epilepsy, the postoperative cortical margins {1.1} are additionally resected after re-examination.
+Seizures recur in a small percentage of these patients even after reoperation, and the assumed epileptogenic lesion is mostly seen on the post-reoperative cortical margin, again like pursuing a mirage.
+We recently have reported our earlier experiences with 2 frontal lobe epilepsy cases that were cured without incurring any neurological deficit after resection of the periventricular white matter3 and striatum4 following prior resection surgeries.
+Both cases revealed pathological abnormalities and possible epileptogenicity in deep brain structures, which are generally not believed to have epileptogenic qualities.
+A residual deep epileptogenic lesion may cause a mirage of epileptogenicity to appear at the cortices connected with the lesion.
+Neurons generated in the neocortical ventricular zone (VZ) migrate radially along glial cell guides to the cortex, and interneurons generated in the proliferative zone of the striatum migrate tangentially to the cortex5.
+From the viewpoint of cortical development, we hypothesize that cases besides those previously described can exists. {1.1}
+To validate our hypothesis, we searched for similar cases of epileptogenesis in the deep brain structures.
+The epileptogenic zone is defined as the brain region(s) that generates seizures6.
+Surgical suppression of seizures with histological abnormalities found in the resected lesion should be necessary to prove epileptogenicity of the lesion.
+However, temporal lobectomy, generally includes mesial temporal structures including the hippocampus, parahippocampal gyrus, and periventricular structures regardless of the etiology of the temporal lobe epilepsy.
+Therefore, surgical cases of temporal lobe epilepsy should be excluded in an investigation of epileptogenicity of deep brain structures, for example, the striatum and periventricular white matter.
+The aim of the present study is to discuss epileptogenesis in deep brain structures in a consecutive series of pediatric {2.1} patients with malformations of cortical development who displayed extratemporal epilepsy after surgical resection of deep structures.
+RESULTS
+Patient characteristics
+Nine children (113 years old; mean age, 7 years; 5 boys) with medically refractory focal epilepsy underwent resection surgery of the epileptogenic focus, including deep brain structures (Table 1).
+We have previously reported Case 14 and 23 in medical journals.
+All patients suffered daily seizures.
+Eight had frontal lobe epilepsy and 1 had parietal lobe epilepsy.
+One of the patients (Case 6) had suffered a medically refractory status epilepticus for 2 months before surgery.
+Corpus callosotomy was performed in 3 patients as palliative surgery before their last resection surgeries.
+Six patients (Cases 1, 2, 3, 4, 5, and 9) underwent multiple resection surgeries to treat seizure recurrence after previous surgical treatment.
+One patient (Case 4) had undergone resection surgery twice before; the other 5 had undergone surgery only once before the last surgery.
+Surgical treatment
+All 9 patients underwent surgical resection of assumed epileptogenic lesions in periventricular white matter.
+Furthermore, the anterior striatum, including the head of the caudate nucleus and the nucleus accumbens, was resected in 4 patients (Cases 1, 3, 4, and 7) (Table 2).
+In most of the patients, resected brain tissues, including deep brain structures, were very solid compared with normal tissues.
+Neuroimages of illustrative cases (Cases 4 and 6) are shown in Figures 1 and 2, respectively.
+Intraoperative subdural electroencephalography
+Subdural EEG was performed during resection surgery in all 9 patients.
+Epileptic spike discharges were observed from electrodes on the brain surface of the assumed {2.1} epileptogenic lesions.
+In 1 patient (Case 1), depth electrodes in the nucleus accumbens detected epileptic discharges in detail as previously reported 4.
+After resection, the epileptic discharges disappeared.
+Pathological diagnosis
+Table 2 summarizes the histopathological features of the cases.
+The resected cortex of all cases exhibited noticeable abnormalities; diagnoses were FCD type IA in 2 patients, IB in 1, IIA in 5, and IIB in 1 .
+The cortex in Cases 4 and 5 exhibited a polymicrogyric configuration in which the cortical ribbon was abnormally undulated and excessively folded, and the molecular layers of the adjacent gyri appeared to be fused (Fig.
+3a).
+The resected white matter in all cases also showed abnormalities.
+In Cases 1, 3, 4, 6, and 9, dysmorphic neurons were scattered, and in Case 7, both dysmorphic neurons and balloon cells were widely distributed.
+In the other patients (Cases 2, 5, and 8), an increased neuron number in the white matter 7-8 was evident.
+Histological verification of the resected anterior striatum was available for 3 out of 4 patients in whom dysmorphic neurons were scattered; Figure 3 shows the histological features of representative Cases 4 and 6.
+Postoperative outcome
+Postoperative follow-up time was 144 months (mean, 16 months).
+All patients were free from seizures postoperatively, except 1 who had transient postoperative seizures (Case 4).
+There were no cases of permanent morbidity.
+DISCUSSION
+After resection of the epileptogenic cortices with a portion of the anterior striatum and periventricular white matter, medically refractory epilepsy was cured, and all 9 patients were free from seizures.
+Pathological abnormalities were observed in the surgical specimens of the anterior striatum and periventricular white matter.
+These findings suggest that deep brain structures, such as the anterior striatum and periventricular white matter, may participate in epileptogenesis in some cases.
+We recently reported a case in which we have histologically demonstrated the existence of dysmorphic neurons in the striatum of a frontal lobe epilepsy patient (also reported as Case 1 in our present study)4.
+An intraoperative EEG produced by stereotactically inserted depth electrodes revealed spike discharges from the anterior striatum in this case.
+We have also previously reported another case of a multiresection surgery for refractory frontal lobe epilepsy that had been observed in consistently localizing repeat preoperative MEGs in the epileptogenic zone, which had not be invisible in MRI, of the surgically-resected margin, {1.3} similar to that reported in Case 2 in our study3.
+Surgical resection of the cortical margin with periventricular white matter produced a seizure-free condition postoperatively.
+After our experience with Cases 1 and 2, we were convinced that resection of a part of the anterior striatum and periventricular white matter in patients with epileptogenic lesions would be curative.
+{1.1} The patients in our study experienced disappearance of their seizures after resection of deep brain structures without any permanent neurological deficits.
+Case 4 was a typical case of pursuing a mirage of epileptogenicity.
+Three surgeries were required in Case 4 to finally obtain freedom from seizures.
+The area assumed preoperatively to be epileptogenic had recurred in the cortical margin after resection surgeries.
